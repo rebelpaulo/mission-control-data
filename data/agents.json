@@ -1,0 +1,6 @@
+[
+  {"name": "main", "status": "online", "model": "k2p5", "sessions": 1, "tokens": "45.2k"},
+  {"name": "planner", "status": "online", "model": "k2p5", "sessions": 0, "tokens": "12.8k"},
+  {"name": "developer", "status": "idle", "model": "k2p5", "sessions": 0, "tokens": "8.4k"},
+  {"name": "reviewer", "status": "offline", "model": "k2p5", "sessions": 0, "tokens": "0"}
+]
