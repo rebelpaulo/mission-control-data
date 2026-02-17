@@ -6,6 +6,12 @@
     "status": "active"
   },
   {
+    "name": "master-claw",
+    "description": "Unknown skill",
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
     "name": "prompt-guard",
     "description": "Prompt injection defense",
     "version": "3.1.0",
