@@ -1,3 +1,9 @@
 [
-  {"id": "run-001", "workflow": "feature-dev", "status": "running", "progress": 65, "started": "08:00 UTC"}
+  {
+    "id": "run-001",
+    "workflow": "feature-dev",
+    "status": "running",
+    "progress": 65,
+    "started": "12:40 UTC"
+  }
 ]

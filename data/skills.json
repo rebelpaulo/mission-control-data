@@ -1,10 +1,44 @@
 [
-  {"name": "github", "description": "GitHub integration", "version": "1.0.0", "status": "active"},
-  {"name": "playwright-mcp", "description": "Browser automation", "version": "1.0.0", "status": "active"},
-  {"name": "prompt-guard", "description": "Security protection", "version": "3.1.0", "status": "active"},
-  {"name": "find-skills", "description": "Skill discovery", "version": "1.0.0", "status": "active"},
-  {"name": "dont-hack-me", "description": "Security audit", "version": "1.0.0", "status": "active"},
-  {"name": "antfarm", "description": "Multi-agent workflows", "version": "1.0.0", "status": "active"},
-  {"name": "gog", "description": "Google Workspace", "version": "1.0.0", "status": "active"},
-  {"name": "openai-whisper", "description": "Audio transcription", "version": "1.0.0", "status": "active"}
+  {
+    "name": "github",
+    "description": "GitHub integration",
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
+    "name": "prompt-guard",
+    "description": "Prompt injection defense",
+    "version": "3.1.0",
+    "status": "active"
+  },
+  {
+    "name": "dont-hack-me",
+    "description": "Security audit",
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
+    "name": "find-skills",
+    "description": "Skill discovery",
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
+    "name": "openai-whisper",
+    "description": "Audio transcription",
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
+    "name": "playwright-mcp",
+    "description": "Browser automation",
+    "version": "1.0.0",
+    "status": "active"
+  },
+  {
+    "name": "gog",
+    "description": "Google Workspace",
+    "version": "1.0.0",
+    "status": "active"
+  }
 ]
