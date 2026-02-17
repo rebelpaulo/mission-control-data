@@ -1,18 +1,3 @@
 [
-  {
-    "id": "agent:main",
-    "agent": "agent",
-    "model": "k2p5",
-    "duration": "active",
-    "tokens": "45.2k",
-    "status": "online"
-  },
-  {
-    "id": "agent:main",
-    "agent": "agent",
-    "model": "k2p5",
-    "duration": "active",
-    "tokens": "45.2k",
-    "status": "online"
-  }
+  {"id": "main:main", "agent": "main", "model": "k2p5", "duration": "active", "tokens": "45.2k", "status": "online"}
 ]

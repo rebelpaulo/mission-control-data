@@ -1,23 +1,5 @@
 [
-  {
-    "id": "feature-dev",
-    "name": "Feature Development",
-    "description": "Complete feature dev workflow",
-    "agents": 7,
-    "runs": 12
-  },
-  {
-    "id": "bug-fix",
-    "name": "Bug Fix",
-    "description": "Bug triage and fix workflow",
-    "agents": 6,
-    "runs": 8
-  },
-  {
-    "id": "security-audit",
-    "name": "Security Audit",
-    "description": "Security scanning workflow",
-    "agents": 7,
-    "runs": 3
-  }
+  {"id": "feature-dev", "name": "Feature Development", "description": "Complete feature dev workflow", "agents": 7, "runs": 12},
+  {"id": "bug-fix", "name": "Bug Fix", "description": "Bug triage and fix workflow", "agents": 6, "runs": 8},
+  {"id": "security-audit", "name": "Security Audit", "description": "Security scanning workflow", "agents": 7, "runs": 3}
 ]
