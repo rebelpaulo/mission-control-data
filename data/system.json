@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-02-19T09:05:01.859876Z",
+  "timestamp": "2026-02-19T09:05:31.859058Z",
   "host": "",
   "openclaw": {
     "status": "online",
     "agents": 20,
-    "sessions": 7,
+    "sessions": 6,
     "skills": 8
   }
 }
